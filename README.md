@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mrunmayee Sakharwade</h1>
+<h1 align="center"><b><span style="font-size: 36px;">Hi 👋, I'm Mrunmayee Sakharwade</span></h1></b>
 
 <p align="center">
-  "Designing real-time AI solutions that merge innovation with healthcare and societal impact."
+  <b><span style="font-size: 36px;">"Designing real-time AI solutions that merge innovation with healthcare and societal impact."</span></b>
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to collaborate on **AI, ML & Full Stack** projects with real-world value.
   
-- 🚀 Currently building **Panace-AI** – a real-time health alert website using AI & Firebase.
+- 🚀 Recently built **Panace-AI** – a real-time health alert website using AI & Firebase.
   
 - 📚 Passionate about **ethical AI**, social good, and healthcare technology.
   
@@ -22,7 +22,7 @@
 
 ---
 
-## 🌐 Connect with me  
+##  Connect with me</b>  
 <p align="left">
   <a href="https://www.linkedin.com/in/mrunmayee-sakharwade-090969245/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Languages and Tools  
+##  Languages and Tools</b>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
