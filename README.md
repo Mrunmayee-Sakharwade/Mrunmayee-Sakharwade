@@ -22,25 +22,46 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [sakharwademrunmayee@gmail.com](mailto:sakharwademrunmayee@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mrunmayee-sakharwade-090969245](https://www.linkedin.com/in/mrunmayee-sakharwade-090969245)  
-- 📸 Instagram: [@_eeyamnurm_](https://instagram.com/_eeyamnurm_)
+- [📧 Email](mailto:sakharwademrunmayee@gmail.com)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/mrunmayee-sakharwade-090969245)  
+- [📸 Instagram](https://instagram.com/_eeyamnurm_)
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353443/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  
+  <!-- Web Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+
+  <!-- AI & ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://www.svgrepo.com/show/353443/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="40" height="40"/>
+
+  <!-- Other Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_Logo.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </p>
 
 ---
