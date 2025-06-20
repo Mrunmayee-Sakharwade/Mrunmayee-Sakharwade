@@ -49,9 +49,6 @@
 
   <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-nlp-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" alt="NLP" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-neural-network-machine-learning-flat-flat-juicy-fish.png" alt="CNN" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-llm-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" alt="LLMs" width="40" height="40"/>
 
   <!-- Placeholder for RESTful APIs -->
   <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="RESTful APIs" width="40" height="40"/>
